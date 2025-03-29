@@ -1,0 +1,76 @@
+.div {
+    margin-top: 100px;
+    width: 425px;
+    height: 450px;
+    border: 3px white solid;
+    border-radius: 20px;
+    backdrop-filter: blur(20px);
+
+}
+
+.button25 {
+    width: 340px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: white;
+    font-family: Tahoma;
+    border-color: white;
+    font-family: Tahoma;
+    
+}
+
+
+.button {
+    width: 320px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: blue;
+}
+
+.h1 {
+    font-family: Tahoma;
+    line-height: 70px;
+    color: white;
+}
+
+.div3 {
+    line-height: 60px;
+}
+
+.div input::placeholder {
+    color: white;
+}
+
+.text {
+    width: 320px;
+    height: 30px;
+    border: 1px white solid;
+    border-radius: 20px;
+    padding:4px 10px 4px 20px;
+    background: transparent;
+}
+
+.text input::placeholder {
+    color: white;
+}
+
+
+.text2 {
+    width: 320px;
+    height: 30px;
+    border: 1px white solid;
+    border-radius: 20px;
+    padding:4px 10px 4px 20px;
+    background: transparent;
+}
+
+
+body {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(img.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
